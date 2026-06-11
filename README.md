@@ -126,8 +126,9 @@ MongoDB • PostgreSQL • Git • GitHub • Linux • Jupyter
 
 # 📫 Connect With Me
 
-* GitHub: https://github.com/m-musif
-https://www.linkedin.com/in/muhammad-musif/
+🔗 GitHub: https://github.com/m-musif
+
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-musif/
 
 ---
 
