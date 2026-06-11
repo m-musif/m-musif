@@ -126,6 +126,8 @@ MongoDB • PostgreSQL • Git • GitHub • Linux • Jupyter
 
 # 📫 Connect With Me
 
+🌐 Portfolio: https://personal-portfolio-website-musif-ai.vercel.app
+
 🔗 GitHub: https://github.com/m-musif
 
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-musif/
