@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Musif&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Musif&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20Student%20%40%20FAST&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI+Applications;Exploring+LLMs+and+RAG;Developing+Multi-Agent+Systems;Computer+Vision+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI+Applications;Fine-tuning+Vision-Language+Models;Pakistan+Sign+Language+%26+Agri+AI;Exploring+LLMs+and+RAG;Developing+Multi-Agent+Systems;Computer+Vision+%26+Deep+Learning" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=m-musif\&style=for-the-badge\&color=7C3AED\&label=PROFILE+VIEWS)
+**FastAPI • React • YOLO • RAG • Multi-Agent Systems • VLM • QLoRA • PEFT • Unsloth • Gemma 3 Vision • Gradio • Streamlit • PyTorch • ResNet18 • OpenCV • Hugging Face • Groq**
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=m-musif&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>
 
@@ -20,17 +24,46 @@ I'm **Muhammad Musif**, a Computer Science student at **FAST University** passio
 
 My primary interests include:
 
+* Vision-Language Models (VLMs) & Multimodal AI
 * Large Language Models (LLMs)
 * Retrieval-Augmented Generation (RAG)
 * Multi-Agent Systems
-* Computer Vision
-* AI Automation
+* Computer Vision & Deep Learning
+* AI Automation & Accessibility
 
-Currently focused on building production-ready AI applications using **Python, FastAPI, React, and modern AI frameworks**.
+Currently focused on building production-ready AI applications using **Python, FastAPI, React, PyTorch, Hugging Face, Gradio, and modern agentic AI frameworks**.
+
+**Open Source:** Merged my first contribution on [first-contributions](https://github.com/firstcontributions/first-contributions/pull/119558).
 
 ---
 
 # 🚀 Featured AI Projects
+
+## 🔹 Pakistan Sign Language Vision-Language Model (PSL-VLM)
+
+**Gemma 3 Vision • VLM • QLoRA • Unsloth • PEFT • Gradio • Hugging Face • PyTorch • Urdu/English**
+
+Research-grade vision-language system for **Pakistan Sign Language** — moving beyond isolated sign classification to **conditional language generation** over visual input. The model maps sign imagery to structured outputs: sign identification, **Urdu and English** translations, and contextual explanations for learners and practitioners.
+
+* Instruction-tuned multimodal pipeline with **resource-efficient QLoRA** fine-tuning via **Unsloth**
+* End-to-end layout: dataset curation, training, evaluation (BLEU, ROUGE, CIDEr), inference, and **Gradio** demo
+* Designed for **signer-disjoint splits**, reproducible research, and Hugging Face deployment
+* **Repo:** [Pakistan-PSL-VLM](https://github.com/m-musif/Pakistan-PSL-VLM)
+
+---
+
+## 🔹 AgriVision PK — Crop Disease Detection
+
+**PyTorch • ResNet18 • OpenCV • FastAPI • Streamlit • Transfer Learning • Urdu/English**
+
+End-to-end **agricultural computer vision** system for Pakistani farmers: upload a crop leaf image → deep learning classifier detects disease → **bilingual treatment advice** in English and Urdu.
+
+* **OpenCV** preprocessing (CLAHE, resize) + **ResNet18** transfer learning on PlantVillage-style data
+* **FastAPI** REST API (`/predict`) and **Streamlit** interactive demo
+* Extensible to **RAG-based** farming advisory agent (Phase E roadmap)
+* **Repo:** [agrivision-pk](https://github.com/m-musif/agrivision-pk)
+
+---
 
 ## 🔹 AI Solar Panel Defect Detection
 
@@ -70,31 +103,38 @@ Built an AI-powered code review system that automatically analyzes pull requests
 
 Designed and developed a professional portfolio website to showcase projects, skills, and technical achievements.
 
+🌐 https://personal-portfolio-website-musif-ai.vercel.app
+
 ---
 
 # 🛠️ Tech Stack
 
 ### 🤖 AI / Machine Learning
 
-Python • TensorFlow • PyTorch • Scikit-Learn • Hugging Face • NumPy • Pandas • OpenCV
+Python • PyTorch • TensorFlow • Scikit-Learn • Hugging Face • Transformers • **Gemma 3 Vision** • **Vision-Language Models (VLM)** • **QLoRA / LoRA / PEFT** • **Unsloth** • YOLOv8 • NumPy • Pandas • OpenCV • ResNet18 • Transfer Learning • Instruction Tuning
 
-### 🌐 Web Development
+### 🧠 LLMs, RAG & Agents
 
-React • FastAPI • JavaScript • HTML • CSS
+Groq • FAISS • RAG • Multi-Agent Systems • LangChain-class workflows • Semantic Search • Prompt Engineering
+
+### 🌐 Web & Deployment
+
+React • FastAPI • JavaScript • HTML • CSS • Tailwind CSS • **Gradio** • **Streamlit** • Vercel • REST APIs
 
 ### 🗄️ Databases & Tools
 
-MongoDB • PostgreSQL • Git • GitHub • Linux • Jupyter
+MongoDB • PostgreSQL • Git • GitHub • GitHub Actions • Linux • Jupyter • Kaggle
 
 ---
 
 # 🎯 Current Goals (2026)
 
 * Secure an AI / Machine Learning Internship
-* Build Production-Ready AI Applications
+* Advance **PSL-VLM** research toward publication-quality evaluation
+* Ship **AgriVision PK** demo for hackathons (SunnyHacks / Hack the Tech)
 * Participate in International Hackathons
-* Contribute to Open Source AI Projects
-* Deepen Expertise in LLMs, RAG Systems, Agents, and Computer Vision
+* Contribute to Open Source AI Projects (GSoC / LangChain / Hugging Face)
+* Deepen Expertise in VLMs, LLMs, RAG Systems, Agents, and Computer Vision
 
 ---
 
@@ -118,7 +158,7 @@ MongoDB • PostgreSQL • Git • GitHub • Linux • Jupyter
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-musif\&theme=tokyo-night\&hide_border=true\&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-musif&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
