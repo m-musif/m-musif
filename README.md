@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-**FastAPI • React • YOLO • RAG • Multi-Agent Systems • VLM • QLoRA • PEFT • Unsloth • Gemma 3 Vision • Gradio • Streamlit • PyTorch • ResNet18 • OpenCV • Hugging Face • Groq**
+**FastAPI • React • YOLO • RAG • Multi-Agent Systems • VLM • QLoRA • PEFT • Unsloth • Gemma 3 Vision • Gradio • Streamlit • PyTorch • ResNet18 • OpenCV • Hugging Face • FAISS • Groq**
 
 <br/><br/>
 
@@ -54,13 +54,15 @@ Research-grade vision-language system for **Pakistan Sign Language** — moving 
 
 ## 🔹 AgriVision PK — Crop Disease Detection
 
-**PyTorch • ResNet18 • OpenCV • FastAPI • Streamlit • Transfer Learning • Urdu/English**
+**PyTorch • ResNet18 • OpenCV • FastAPI • Streamlit • Kaggle GPU T4 • Urdu/English**
 
-End-to-end **agricultural computer vision** system for Pakistani farmers: upload a crop leaf image → deep learning classifier detects disease → **bilingual treatment advice** in English and Urdu.
+End-to-end **agricultural computer vision** for Pakistani farmers: upload a leaf image → **38-class** disease classifier → **bilingual treatment advice**.
 
-* **OpenCV** preprocessing (CLAHE, resize) + **ResNet18** transfer learning on PlantVillage-style data
-* **FastAPI** REST API (`/predict`) and **Streamlit** interactive demo
-* Extensible to **RAG-based** farming advisory agent (Phase E roadmap)
+* Trained on **Kaggle GPU (T4 x2)** — PlantVillage segmented dataset, 150 images/class
+* **~87%+ validation confidence** on held-out leaf images
+* **OpenCV** CLAHE preprocessing + **ResNet18** transfer learning
+* **FastAPI** `/predict` API + **Streamlit** demo with English/Urdu toggle
+* Open-source: merged [first-contributions PR #119558](https://github.com/firstcontributions/first-contributions/pull/119558)
 * **Repo:** [agrivision-pk](https://github.com/m-musif/agrivision-pk)
 
 ---
@@ -131,7 +133,8 @@ MongoDB • PostgreSQL • Git • GitHub • GitHub Actions • Linux • Jupyt
 
 * Secure an AI / Machine Learning Internship
 * Advance **PSL-VLM** research toward publication-quality evaluation
-* Ship **AgriVision PK** demo for hackathons (SunnyHacks / Hack the Tech)
+* Ship **AgriVision PK** for hackathons — [repo live](https://github.com/m-musif/agrivision-pk)
+* Send research emails to FAST GAIT + NUST labs (see `ai-career-roadmap/phase-c/`)
 * Participate in International Hackathons
 * Contribute to Open Source AI Projects (GSoC / LangChain / Hugging Face)
 * Deepen Expertise in VLMs, LLMs, RAG Systems, Agents, and Computer Vision
