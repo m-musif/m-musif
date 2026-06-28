@@ -169,7 +169,7 @@ MongoDB • PostgreSQL • Git • GitHub • GitHub Actions • Linux • Jupyt
 
 # 📫 Connect With Me
 
-🌐 Portfolio: https://personal-portfolio-website-musif-ai.vercel.app
+🌐 Portfolio: https://m-musif.github.io/personal-portfolio-website/
 
 🔗 GitHub: https://github.com/m-musif
 
